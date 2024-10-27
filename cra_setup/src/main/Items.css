@@ -1,0 +1,37 @@
+.items-container {
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.items-container h1 {
+    font-size: 2em;
+    color: #333;
+}
+
+.items-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.item {
+    background-color: #fff;
+    margin: 10px 0;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.item h2 {
+    font-size: 1.5em;
+    color: #161717;
+}
+.item h2:hover{
+    color: #1c1e1f;
+
+}
+.item p {
+    font-size: 1em;
+    color: #555;
+}

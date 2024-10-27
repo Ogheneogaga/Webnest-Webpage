@@ -1,0 +1,26 @@
+
+.home-container {
+    padding: 20px;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+   
+}
+
+
+.home-container h1 {
+    color: #333;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+
+}
+
+.home-container p {
+    color: #555;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+.learn-more{
+     
+}
